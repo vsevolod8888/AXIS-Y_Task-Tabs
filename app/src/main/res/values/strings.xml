@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EvstropovVsevolodTestovoeAXIS</string>
+    <string name="enter">Войти</string>
+    <string name="enterYourText">введите что вы там хотите написать</string>
+    <string name="enter_tittle">введите название</string>
+    <string name="logout">Выйти</string>
+</resources>
